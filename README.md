@@ -9,7 +9,7 @@ for winning.
 centre y-axis line.  
 ● Also the new ball follows any random direction to shoot at start of each round 
 so neither of player get any initial advantage.  
-● In order to make this game more fun, we designed the game in such a way 
+● In order to make this game more fun, I designed the game in such a way 
 that every time ball bounces back, the speed of ball increases a little. Making 
 players harder to hit the ball with each successful hit.  
 
